@@ -1,0 +1,60 @@
+.box{
+	/* margin: 2px solid black;
+	padding: 3px;
+	border: 2px solid black;
+	text-align: center;
+	font-style: italic;
+	font-size: large;
+	margin-top: 12px;
+	margin-right: 12px; */
+	color: white;
+}
+.stat-box{
+	border: 0.5px solid lightgray;
+	border-radius: 20px;
+	
+}
+
+.button{
+	border-radius: 5px;
+	background-color:#48d6b5;
+	font-size:20px ;
+	padding:10px 50px;
+	border: none;
+
+}
+.button2{
+	background-color: #48d6b5;
+	font-size: 25px;
+	padding: 10px 50px;
+	border: none;
+	border-radius: 5px;
+	font-weight: 500;
+}
+.box2{
+	
+	margin-right: 2px;
+}
+.text{
+	font-size: 40px;
+	font-weight:500;
+}
+.inside-button{
+	font-weight: 500;
+}
+.img{
+	opacity: 0.5;
+}
+.text2{
+	font-size: 40px;
+	color:#48d6b5;
+	font-weight: 700;
+}
+.box4{
+	border-block: 2px solid #48d6b5;
+	padding: 14px;
+
+}
+.navbar{
+	background-color: #101727;
+}
